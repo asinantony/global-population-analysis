@@ -108,7 +108,7 @@ Exploratory analysis was performed to identify:
 
 Pie chart representing contribution of major countries to global population.
 
-![Population Distribution](images/population_distribution_pie.png)
+![Population Distribution](images/plot8.png)
 
 ---
 
