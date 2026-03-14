@@ -131,16 +131,12 @@ global-population-analysis
 │
 ├── data
 │   ├── population_data.csv
-│   └── country_metadata.csv
 │
 ├── notebooks
 │   └── population_analysis.ipynb
 │
 ├── images
-│   ├── top_countries_population.png
-│   ├── population_trend_2018_2022.png
-│   ├── historical_population_1960_1964.png
-│   └── population_distribution_pie.png
+│   ├── plots
 │
 ├── requirements.txt
 └── README.md
