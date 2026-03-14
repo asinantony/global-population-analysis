@@ -103,33 +103,6 @@ Exploratory analysis was performed to identify:
 • Population growth trends  
 • Population contribution of major countries  
 
----
-
-## Data Visualizations
-
-### Top 10 Most Populated Countries
-
-Bar chart showing the countries with the highest average population.
-
-![Top Countries](images/top_countries_population.png)
-
----
-
-### Population Growth Trend (2018 – 2022)
-
-Line chart showing population changes among major countries.
-
-![Population Trend](images/population_trend_2018_2022.png)
-
----
-
-### Historical Population Trend (1960 – 1964)
-
-Comparison of early population growth patterns.
-
-![Historical Population](images/historical_population_1960_1964.png)
-
----
 
 ### Population Distribution
 
